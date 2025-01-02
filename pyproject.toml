@@ -23,5 +23,5 @@ classifiers = [
 dependencies = ['typing']
 
 [project.urls]
-Homepage = "https://github.com/software-students-fall2024/3-python-package-realoriginal"
-Issues = "https://github.com/software-students-fall2024/3-python-package-realoriginal/issues"
+Homepage = "https://github.com/JosephChege4/pyjokes"
+Issues = "https://github.com/JosephChege4/pyjokes/issues"
